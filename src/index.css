@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #6a9ac2;
+}
+h1{
+    text-align: center;
+}
+
+.text{
+    margin-top: 200px;
+}
